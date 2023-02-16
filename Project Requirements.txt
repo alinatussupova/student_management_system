@@ -1,0 +1,9 @@
+Project Requirements
+
+Whats users can do:
+- View information on students;
+- Insert Record;
+- Update Record;
+- Delete Record;
+- Search Record;
+- Sort Records out.

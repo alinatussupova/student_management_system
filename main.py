@@ -130,7 +130,7 @@ class InsertDialog(QDialog):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Insert Student Data")
+        self.setWindowTitle("Add Student Data")
         self.setFixedWidth(300)
         self.setFixedHeight(300)
 

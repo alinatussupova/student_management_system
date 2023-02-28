@@ -3,7 +3,7 @@
 
 This program organizes information about students.
 
-What I used while building this project:
+Technologies I used while building this project:
 - Python
 - PyQt6 library (for building GUI)
 - SQL to connect the script with database
